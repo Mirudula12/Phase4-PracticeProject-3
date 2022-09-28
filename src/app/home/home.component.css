@@ -1,0 +1,17 @@
+body {
+
+    background-image: url('port.jpg');
+    background-position: right;  
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70%;
+    height: 80vh;
+}
+
+.main {
+
+    color: black;
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    width: 200vh;
+}
